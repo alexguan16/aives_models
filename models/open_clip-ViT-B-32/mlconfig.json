@@ -1,0 +1,10 @@
+
+{
+  "mlPath": "",
+  "txtInputDType": "int32",
+  "visInputDType": "float32",
+  "imgSize": 224,
+  "contextLen": 77,
+  "embeddingLen": 512,
+  "similarity": "cosineSimilarity"
+}
